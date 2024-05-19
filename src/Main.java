@@ -3,7 +3,7 @@ package currencyConverter;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class Currency {
+public class Main {
 	private String name;
 	private String shortName;
 	private HashMap<String, Double> exchangeValues = new HashMap<String, Double>();
